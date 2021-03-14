@@ -1,0 +1,14 @@
+body{
+	background-color:#ADD8E6;
+}
+.titulo{
+	color:#8B4513
+	text-align: center;
+	font-family: #FF7F50 
+}
+#paragrafo{
+	font-family: #FF7F50
+	font-size:30px;
+	color:#EEC900;
+	text-align: center;
+}
